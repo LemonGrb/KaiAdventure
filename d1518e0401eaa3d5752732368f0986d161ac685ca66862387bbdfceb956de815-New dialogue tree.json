@@ -1,0 +1,102 @@
+[
+	{
+		"title": "First",
+		"tags": "",
+		"body": "Oh, hey there! You must be the new little robot helper thing - Kai, right?\n[[ Yep! |Yep]]\n[[ Beep Boop.. |Beep]]",
+		"position": {
+			"x": 334,
+			"y": -72
+		},
+		"colorID": 0
+	},
+	{
+		"title": "Beep",
+		"tags": "",
+		"body": "Well... Boop Bop to you too! You must be headed to Together Credit Union. \n[[ I am! |Yes]]\n[[ Yeehaw! |Yes]]",
+		"position": {
+			"x": 687,
+			"y": 246
+		},
+		"colorID": 0
+	},
+	{
+		"title": "Yes",
+		"tags": "",
+		"body": "Great! They'll be super excited to see you! Do you know how to get there?\n[[ I'll figure it out! |GotIt]] \n[[ Uhh.. no. |Nope]]",
+		"position": {
+			"x": 344,
+			"y": 564
+		},
+		"colorID": 0
+	},
+	{
+		"title": "Yep",
+		"tags": "",
+		"body": "That's cool! You must be headed to Together Credit Union.\n[[ I am! |Yes]]\n[[ I is! |Yes]]",
+		"position": {
+			"x": -32,
+			"y": 243
+		},
+		"colorID": 8
+	},
+	{
+		"title": "Second",
+		"tags": "",
+		"body": "Well.. what are ya waitin' for?\n",
+		"position": {
+			"x": 691,
+			"y": -64
+		},
+		"colorID": 0
+	},
+	{
+		"title": "GotIt",
+		"tags": "",
+		"body": "Great! You really can't go wrong following the trail. Good luck!",
+		"position": {
+			"x": -3,
+			"y": 832
+		},
+		"colorID": 0
+	},
+	{
+		"title": "Nope",
+		"tags": "",
+		"body": "Oh.. well you really can't go wrong following the trail. Good luck!",
+		"position": {
+			"x": 705,
+			"y": 823
+		},
+		"colorID": 0
+	},
+	{
+		"title": "NPC2First",
+		"tags": "",
+		"body": "Hi Kai! I've been waitin' for ya! Ready to learn about banking stuff?\n[[ Yeah! |Yes1]]\n[[ Banksies? |No1]]",
+		"position": {
+			"x": 1305,
+			"y": -129
+		},
+		"colorID": 0
+	},
+	{
+		"title": "Yes1",
+		"tags": "",
+		"body": "Great! Click the red play button to watch a short vid!",
+		"position": {
+			"x": 1068,
+			"y": 148
+		},
+		"colorID": 0
+	},
+	{
+		"title": "No1",
+		"tags": "",
+		"body": "Uhh.. sure? Click the red play button to watch a short vid.",
+		"position": {
+			"x": 1564,
+			"y": 139
+		},
+		"colorID": 0
+	}
+]
